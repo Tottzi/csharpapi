@@ -1,0 +1,14 @@
+C:\JS\first.net\commander\bin\Debug\netcoreapp2.1\commander.deps.json
+C:\JS\first.net\commander\bin\Debug\netcoreapp2.1\commander.runtimeconfig.json
+C:\JS\first.net\commander\bin\Debug\netcoreapp2.1\commander.runtimeconfig.dev.json
+C:\JS\first.net\commander\bin\Debug\netcoreapp2.1\commander.dll
+C:\JS\first.net\commander\bin\Debug\netcoreapp2.1\commander.pdb
+C:\JS\first.net\commander\obj\Debug\netcoreapp2.1\commander.csprojAssemblyReference.cache
+C:\JS\first.net\commander\obj\Debug\netcoreapp2.1\commander.csproj.CoreCompileInputs.cache
+C:\JS\first.net\commander\obj\Debug\netcoreapp2.1\commander.RazorAssemblyInfo.cache
+C:\JS\first.net\commander\obj\Debug\netcoreapp2.1\commander.RazorAssemblyInfo.cs
+C:\JS\first.net\commander\obj\Debug\netcoreapp2.1\commander.AssemblyInfoInputs.cache
+C:\JS\first.net\commander\obj\Debug\netcoreapp2.1\commander.AssemblyInfo.cs
+C:\JS\first.net\commander\obj\Debug\netcoreapp2.1\commander.RazorTargetAssemblyInfo.cache
+C:\JS\first.net\commander\obj\Debug\netcoreapp2.1\commander.dll
+C:\JS\first.net\commander\obj\Debug\netcoreapp2.1\commander.pdb
